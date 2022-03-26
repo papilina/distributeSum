@@ -1,0 +1,16 @@
+C:\Users\marina\source\repos\Sum\Sum\bin\Debug\net5.0\Sum.exe
+C:\Users\marina\source\repos\Sum\Sum\bin\Debug\net5.0\Sum.deps.json
+C:\Users\marina\source\repos\Sum\Sum\bin\Debug\net5.0\Sum.runtimeconfig.json
+C:\Users\marina\source\repos\Sum\Sum\bin\Debug\net5.0\Sum.runtimeconfig.dev.json
+C:\Users\marina\source\repos\Sum\Sum\bin\Debug\net5.0\Sum.dll
+C:\Users\marina\source\repos\Sum\Sum\bin\Debug\net5.0\Sum.pdb
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.csproj.AssemblyReference.cache
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.AssemblyInfoInputs.cache
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.AssemblyInfo.cs
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.dll
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.pdb
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\Sum.genruntimeconfig.cache
+C:\Users\marina\source\repos\Sum\Sum\obj\Debug\net5.0\ref\Sum.dll
+C:\Users\marina\source\repos\Sum\Sum\bin\Debug\net5.0\ref\Sum.dll
